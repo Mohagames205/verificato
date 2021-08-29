@@ -1,5 +1,13 @@
 # verificato
 
+Verificato is a MCBE player verification tool. You can use this to verify the players identity.
+
+Modules:
+
+* **Verificato (this)**: the VueJS front-end
+* **Verificato Treebox**: the Laravel Lumen backend
+* **VerificatoBE**: Verificato Minecraft: Bedrock Edition plugin
+
 ## Project setup
 ```
 npm install
@@ -20,5 +28,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
